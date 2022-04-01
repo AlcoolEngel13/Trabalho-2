@@ -1,0 +1,30 @@
+p {
+    color:red;
+}
+
+#a1 {
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+}
+
+.cor2 {
+    color: green;
+    height: 150px;
+}
+
+div {
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+}
+
+.cor3 {
+    color: blue;
+    font-family: Arial;
+    font-size: 36px;
+}
+
+a {
+    text-decoration: none;
+}
